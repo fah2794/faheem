@@ -1,6 +1,6 @@
 # Faheem Ahmad Ansari
 
-Consultant and Development Professional with 3+ years of experience in policy research and governance. Currently a Young Professional at CITaG, IIM Jammu , specializing in data-driven analysis , stakeholder engagement , and SDGs. Skilled in SPSS, Excel, and evidence-based institutional transformation.
+Consultant and Development Professional with 3+ years of experience in policy research and governance. Currently a Young Professional at CITaG, IIM Jammu, specializing in data-driven analysis, stakeholder engagement, and SDGs. Skilled in SPSS, Excel, and evidence-based institutional transformation.
 
 **About Me**
 
