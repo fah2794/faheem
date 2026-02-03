@@ -1,11 +1,13 @@
 # Faheem Ahmad Ansari
 
-Consultant and Development Professional with 4+ years of experience in policy research and governance. Currently a Young Professional at CITaG, IIM Jammu , specializing in data-driven analysis , stakeholder engagement , and SDGs. Skilled in SPSS, Excel, and evidence-based institutional transformation.
+Consultant and Development Professional with 3+ years of experience in policy research and governance. Currently a Young Professional at CITaG, IIM Jammu , specializing in data-driven analysis , stakeholder engagement , and SDGs. Skilled in SPSS, Excel, and evidence-based institutional transformation.
 
 **About Me**
+
 I am a results-oriented Development Professional and Consultant with over four years of experience dedicated to strengthening public systems through policy research, governance transformation, and data-driven analysis. My career is defined by a commitment to augmenting state capacity and translating complex policy frameworks into actionable, on-ground initiatives.
 
 **Current Role & Expertise**
+
 Currently, I serve as a Young Professional at the Centre for Innovation and Transformation in Governance (CITaG), IIM Jammu. In this capacity, I:
 
 - Liaise with high-level administrative officials at the Civil Secretariat in Jammu to ensure project milestones are met.
@@ -13,6 +15,7 @@ Currently, I serve as a Young Professional at the Centre for Innovation and Tran
 - Utilize digital databases and visualization dashboards to drive evidence-based institutional transformation.
 
 **Professional Journey**
+
 My background spans various facets of the development sector, from grassroots implementation to high-level strategic planning:
 
 **Campaign & Governance Management:** As an Associate Campaign Manager at I-PAC, I led a 15-member team evaluating state welfare schemes across 310 Gram Panchayats in West Bengal. I played a key role in executing large-scale programs like Didi Suraksha Kawach and Duare Sarkar, acting as a primary liaison between the government and local stakeholders.
